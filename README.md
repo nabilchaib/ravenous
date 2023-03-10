@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### get Cors temporary access to demo server
+
+https://cors-anywhere.herokuapp.com/corsdemo
+
 ### `npm start`
 
 Runs the app in the development mode.\
